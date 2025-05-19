@@ -1,0 +1,52 @@
+[
+    {
+        "numPokedex": 1,
+        "nombrePokemon": "e",
+        "tipoPokemon": [
+            "e"
+        ],
+        "Damage": 3.0,
+        "Stats": {
+            "vida": 3,
+            "velocidad": 3,
+            "ataque": 3,
+            "ataqueEspecial": 3,
+            "defensa": 3,
+            "defensaEspecial": 3
+        },
+        "ataques": [
+            {
+                "nombreAtaque": "pla",
+                "tipoAtaque": "aa",
+                "damageAtaque": 4,
+                "esFisico": "s",
+                "usos": 33
+            }
+        ]
+    },
+    {
+        "numPokedex": 2,
+        "nombrePokemon": "d",
+        "tipoPokemon": [
+            "f"
+        ],
+        "Damage": 2.0,
+        "Stats": {
+            "vida": 3,
+            "velocidad": 4,
+            "ataque": 5,
+            "ataqueEspecial": 6,
+            "defensa": 7,
+            "defensaEspecial": 8
+        },
+        "ataques": [
+            {
+                "nombreAtaque": "j",
+                "tipoAtaque": "f",
+                "damageAtaque": 4,
+                "esFisico": "n",
+                "usos": 44
+            }
+        ]
+    }
+]
